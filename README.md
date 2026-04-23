@@ -60,7 +60,7 @@ Currently working on **production-level SaaS applications**, contributing to rea
 ---
 
 ## 📫 Connect With Me
-
+* 📱 Resume:[resume](https://drive.google.com/file/d/1x1_c3zveawj_TDAxAMjkCLNrgOc4u_i4/view?usp=drive_link)
 * 💼 LinkedIn: [linkedin.com/in/vrutika-ahir](https://www.linkedin.com/in/vrutika-ahir/)
 * 🧑‍💻 GitHub: [github.com/Vrutika7](https://github.com/Vrutika7)
 * 📧 Email: [ciaovrutika@gmail.com](mailto:ciaovrutika@gmail.com)
