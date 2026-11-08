@@ -60,8 +60,8 @@ Currently working on **production-level SaaS applications**, contributing to rea
 ---
 
 ## 📫 Connect With Me
-* Portfolio: [portfolio](https://vrutika-ahir-folio.vercel.app/)
-* 📱 Resume: [resume]((https://drive.google.com/file/d/1cMTJaQHHNp9xTGEbY7TLgFCXD2r72IXb/view?usp=drive_link))
+* 🌐 Portfolio: [portfolio](https://vrutika-ahir-folio.vercel.app/)
+* 📱 Resume: [resume](https://drive.google.com/file/d/1cMTJaQHHNp9xTGEbY7TLgFCXD2r72IXb/view?usp=drive_link)
 * 💼 LinkedIn: [linkedin.com/in/vrutika-ahir](https://www.linkedin.com/in/vrutika-ahir/)
 * 🧑‍💻 GitHub: [github.com/Vrutika7](https://github.com/Vrutika7)
 * 📧 Email: [ciaovrutika@gmail.com](mailto:ciaovrutika@gmail.com)
